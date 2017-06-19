@@ -136,7 +136,6 @@ li{
 	line-height: 26px;
 	font-size:18px;
 	overflow: hidden;
-	text-overflow: ellipsis;
 }
 .main .main-content .content .description{
 	font-size:15px;
